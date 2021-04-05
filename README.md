@@ -31,7 +31,7 @@ Install Django  and dependencies in virtual environment
 (env)$ pip install django 
 ```
 
-#### Building for source
+## Building for source
 
 Run project
 
